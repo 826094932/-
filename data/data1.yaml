@@ -1,0 +1,9 @@
+# dataset path
+train: C:\Users\15423\Desktop\PycharmProject\版面分析\VOCDATA\images\train\
+val: C:\Users\15423\Desktop\PycharmProject\版面分析\VOCDATA\images\val\
+
+# number of classes
+nc: 13
+
+# class names
+names: ['paragraph', 'section', 'caption', 'equation', 'figure', 'date', 'abstract', 'author', 'title', 'table', 'footer', 'reference', 'list']
