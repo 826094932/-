@@ -1,0 +1,16 @@
+# dataset path
+path: ./data
+train:
+    images/train
+val: 
+    images/val
+test: #
+
+# class names
+names:
+    0: Text
+    1: Figure
+    2: Table
+    3: Equation
+    
+
